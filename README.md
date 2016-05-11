@@ -20,7 +20,9 @@ Be sure to select the 'Customer' radio button
 
 ###To log in as a Clerk
 Username: user1
+<br>
 Password: password
+<br>
 Be sure to select the 'Clerk' radio button
 
 
