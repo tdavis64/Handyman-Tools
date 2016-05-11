@@ -13,7 +13,9 @@ A national chain of tool rental stores, Handyman Tools, has decided to try out a
 
 ###To login in as a Customer
 Username: msmith@email.com
+<br>
 Password: password
+<br>
 Be sure to select the 'Customer' radio button
 
 ###To log in as a Clerk
