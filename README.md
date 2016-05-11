@@ -11,7 +11,7 @@ A national chain of tool rental stores, Handyman Tools, has decided to try out a
 5. Execute 'php -S localhost:8000'
 6. Navigate to 'http://localhost:8000/login.php' in your web browser
 
-###To login in as a Customer
+###To log in as a Customer
 Username: msmith@email.com
 <br>
 Password: password
