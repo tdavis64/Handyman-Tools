@@ -1,0 +1,3 @@
+# Handyman-Tools
+##Overview
+A national chain of tool rental stores, Handyman Tools, has decided to try out a new online tools rental service for its customers. They’ve already done an informal survey of their regular rental customers and determined that the majority of them would be interested in online inventory and reservation services. At the same time, Handyman Tools has decided to upgrade their entire paper record based tools rental service to improve efficiency in tracking a larger inventory. Your job is to develop the information management system that supports some of the services involved in the tools rental service.  Handyman Tools has decided that each store will have its own isolated instance of the online application. 
